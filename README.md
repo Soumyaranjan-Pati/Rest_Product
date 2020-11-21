@@ -12,6 +12,6 @@ Rest_API-using-mongodb
 ###Guides: Building a RESTful Web Service Serving Web Content with Spring MVC Building REST services with Spring 
 ###References Spring Boot Reference Doc Download the repository files (project) from the download section or clone this project by typing in the bash the following command:
 
- git clone https://github.com/Soumyaranjan-Pati/Rest-API-using-mongodb 
+ git clone https://github.com/Soumyaranjan-Pati/Rest_Product
 
  Imported it in STS or any other Java IDE and run it.
